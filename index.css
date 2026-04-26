@@ -4,7 +4,7 @@
 :root {
   --body-bg:#B2C6F9; /* light blue */
   --nav-button-bg:#60B272; /* darker green */
-  --content-bg:<img src="starrysky.jpg" alt="Starry Sky">; /* lighter green */
+  --content-bg:<img src="starrysky.jpg" alt="Starry Sky">;
   --accent-dark-one:#ff239a; /* bold pink */
   --accent-dark-two:#84405c; /* bold blue */
   --accent-light-one:#A3B0DD; /* light blue */
@@ -57,7 +57,7 @@ nav.ul {
   padding-bottom:10px;
 }
 body {
-  background-color:var(--body-bg);
+  background-color:"starrysky.jpg");
 }
 .container {
   max-width:700px;
